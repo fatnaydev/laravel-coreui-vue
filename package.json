@@ -23,7 +23,7 @@
     "npm": ">= 5.6.0"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.2",
+    "babel-eslint": "^10.1.0",
     "babel-plugin-wildcard": "^5.0.0",
     "babel-preset-stage-2": "^6.24.1",
     "cross-env": "^6.0.0",
